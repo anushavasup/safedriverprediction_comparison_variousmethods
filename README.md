@@ -1,6 +1,7 @@
 # safedriverprediction_comparison_variousmethods
 Dataset Description:
 	Dataset Name:  Insurance.csv(train.csv from kaggle safedriver prediction competition)
+dataset link:https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/data?select=train.csv
 
 The dataset is about the largest auto and homeowner insurance companies, Porto Seguro in Brazil. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones. It contains the data, where each row corresponds to a policy holder, and the target columns signifies that a claim was filed.
 I am to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
